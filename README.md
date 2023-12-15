@@ -7,11 +7,13 @@ You have to update the file location at docs/index.HTML by adding a new  `<tr>` 
 
 ```html
   <tr>
-    <th scope="row" class="align-middle">652115041</th>
-    <td class="align-middle">matchima</td>
-    <td class="align-middle">khamyod</td>
+    <th scope="row" class="align-middle">652115515</th>
+    <td class="align-middle">Tao</td>
+    <td class="align-middle">Hu</td>
     <td class="text-center align-middle">
-        <img src="mypic.jpeg" class="img-thumbnail" width="200px" height="200px" alt="Me">
+        <img src="assets/Mebius.jpeg" class="img-thumbnail" width="200px" height="200px" alt="Coco melon"> 
+                    </tr>
+                    <tr>
         </td>
 </tr>
 ```
