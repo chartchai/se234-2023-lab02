@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login (1)</name>
+   <tag></tag>
+   <elementGuidId>e81c9028-33ba-4905-9e64-9a76be413451</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.bg-creamGold.px-6.py-1.rounded-lg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTACT'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>935ba038-034d-4080-b8a6-f43162c46da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-creamGold px-6 py-1 rounded-lg</value>
+      <webElementGuid>72c4f8d4-2fee-45c8-bc13-6aed05828179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>87b5f81d-1d59-4c40-b853-df7916559593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-smokeWhite font-inria&quot;]/nav[@class=&quot;bg-white shadow&quot;]/div[@class=&quot;px-2 py-4 mx-5 max-sm:mx-0 lg:w-4/5 lg:mx-auto&quot;]/div[@class=&quot;lg:flex lg:items-center&quot;]/div[@class=&quot;relative max-sm:hidden md:hidden lg:block mt-4 lg:mt-0 lg:mx-4 flex items-center&quot;]/a[1]/button[@class=&quot;bg-creamGold px-6 py-1 rounded-lg&quot;]</value>
+      <webElementGuid>79b2fadf-feec-4fef-8061-8d63c4d181ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTACT'])[1]/following::button[1]</value>
+      <webElementGuid>35a9ed6a-8102-4dd5-9fbe-064e685cac3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GIRL'])[1]/following::button[1]</value>
+      <webElementGuid>642a9a71-98ea-4f7a-917f-04a5c0571ddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SereneStyle'])[2]/preceding::button[1]</value>
+      <webElementGuid>8e5672e2-3bd2-4abd-a51e-e0e2f387822c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>c6abe50d-79e2-4f20-9ed7-155efb0663ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>2fa640b3-c559-42c0-869b-7417ce285a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>28ae4a3a-3eed-4840-8b25-24026fa1b2e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

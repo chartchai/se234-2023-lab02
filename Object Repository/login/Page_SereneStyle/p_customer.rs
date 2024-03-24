@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_customer</name>
+   <tag></tag>
+   <elementGuidId>355b04d5-ad82-4f99-8ff5-52da8fe32d90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTACT'])[1]/following::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9d665f29-4b44-48a4-9c54-1e93449aaa9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover:underline</value>
+      <webElementGuid>f79f16f5-5fd5-43e1-b9ec-52bea7751b53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>customer</value>
+      <webElementGuid>116a1ba5-2589-4c0c-9e75-8cf5fedbb329</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-smokeWhite font-inria&quot;]/nav[@class=&quot;bg-white shadow&quot;]/div[@class=&quot;px-2 py-4 mx-5 max-sm:mx-0 lg:w-4/5 lg:mx-auto&quot;]/div[@class=&quot;lg:flex lg:items-center&quot;]/div[@class=&quot;relative inline-block max-sm:hidden md:hidden lg:block&quot;]/button[@class=&quot;flex gap-2 items-center hover:text-creamGold relative z-10 p-2 text-gray-700 border border-transparent rounded-md focus:border-creamGold focus:ring-opacity-40 dark:focus:ring-opacity-40 focus:ring-creamGold focus:ring focus:outline-none&quot;]/p[@class=&quot;hover:underline&quot;]</value>
+      <webElementGuid>9c212eaf-f4d5-4423-abd6-21e4e7d8ef19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTACT'])[1]/following::p[1]</value>
+      <webElementGuid>2e31a2c5-c2f3-4360-98f3-721a6bca3b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GIRL'])[1]/following::p[1]</value>
+      <webElementGuid>51152cdd-bb24-44b7-abec-42db4393382e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[2]/preceding::p[1]</value>
+      <webElementGuid>12bc6aa9-79d0-424f-97a2-eb034a9bc4cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/p</value>
+      <webElementGuid>ce281cb0-7667-4c89-827b-5622dde55c1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'customer' or . = 'customer')]</value>
+      <webElementGuid>20532c5e-1c7d-44e5-a2b1-1181f9838da0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
